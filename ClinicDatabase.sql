@@ -1,0 +1,5 @@
+SELECT TOP (1000) [id]
+      ,[name]
+      ,[surname]
+      ,[age]
+  FROM [ICETASK2].[dbo].[Users]
