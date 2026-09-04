@@ -39,7 +39,7 @@ The planning documents are available in the `/docs` folder:
 * SQL Script
 
 ## YouTube Demonstration
-[Video link will be added after demonstration]
+Watch video demonstration [https://youtu.be/LSZqHJKQ1VQ?si=si4IIXyrcYkp1Q3g]
 
 
 YouTube video link:
