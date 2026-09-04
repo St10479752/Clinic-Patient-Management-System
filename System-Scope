@@ -1,0 +1,15 @@
+# System Scope
+
+## In Scope
+
+- Patient registration and management.
+- Patient searching and record updates.
+- Appointment scheduling and cancellation.
+- Appointment slot management.
+- Patient and appointment reports.
+- Database storage and retrieval.
+- API endpoints for system operations.
+
+## Out of Scope
+
+The system does not include payment processing, pharmacy management, laboratory management, or external hospital system integration.
