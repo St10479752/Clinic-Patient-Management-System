@@ -1,6 +1,16 @@
 # Clinic Patient Management System
 
 ## System Description
+## System Features
+
+- Patient registration and management.
+- Patient record searching and updating.
+- Appointment scheduling and cancellation.
+- Appointment slot availability management.
+- Prevention of double-booking.
+- Patient and appointment reporting.
+- Database integration.
+- API-based system operations.
 
 The Clinic Patient Management System is designed to help a community health clinic manage patient information and appointments electronically. The system reduces reliance on paper-based records and helps staff register, search, update and manage patient information efficiently.
 
