@@ -1,0 +1,17 @@
+# Project Structure
+
+The project repository is organised into separate sections to make the project files easy to find.
+
+## Main Sections
+
+- `/docs` - Contains the ERD, Endpoint Plan, SQL Script and supporting project documentation.
+- `/README.md` - Provides an overview of the system, user roles, CI/CD validation and demonstration video.
+- GitHub Actions workflow - Automatically validates the repository.
+
+## Documentation
+
+The `/docs` folder contains the planning and technical documents used during development.
+
+## Version Control
+
+GitHub is used to track project changes through commits and to maintain the project history.
