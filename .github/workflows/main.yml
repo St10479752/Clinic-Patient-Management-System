@@ -1,0 +1,19 @@
+name: Repository Validation
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required documentation files
+        run: |
+          test -d docs
+          test -f docs/README.md
+          echo "Repository validation passed!"
